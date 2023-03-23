@@ -12,7 +12,7 @@ Install [Cookiecutter] and generate a new KietzmannLab package project:
 
 ```bash
 pip install cookiecutter
-cookiecutter https://github.com/KietzmannLab/
+cookiecutter https://github.com/KietzmannLab/cookiecutter-kietzmannlab-template/
 ```
 
 Cookiecutter prompts you for information regarding your package
@@ -28,7 +28,7 @@ Select github_repository_url:
 2 - provide later
 Choose from 1, 2 [1]:
 module_name [pytorch]: pytorch-related
-display_name [repoBar]: tensorflow 
+display_name [repoBar]: pytorch-related 
 short_description [A simple package to use with library]:
 # you can select from various package template examples
 include_sample_data_package [y]:
@@ -226,7 +226,7 @@ issue] along with a detailed description.
 Distributed under the terms of the [BSD-3] license, `cookiecutter-kietzmannlab-package`
 is free and open source software.
 
-[kietzmannlab organization]: https://github.com/KietzmannLab/
+[Kietzmannlab]: https://github.com/KietzmannLab/
 [gitter_badge]: https://badges.gitter.im/Join%20Chat.svg
 [cookiecutter]: https://github.com/audreyr/cookiecutter
 [pypi]: https://pypi.org/
