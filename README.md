@@ -99,8 +99,7 @@ git commit -m 'initial commit'
 
 ### Monitor testing and coverage
 
-The repository should already be setup to run your tests each time you push an
-update (configuration is in `.github/workflows/test_and_deploy.yml`). You can
+The repository should already be setup to run your tests each time you manually trigger the workflow to run tests from the Github actions (configuration is in `.github/workflows/test_and_deploy.yml`). You can
 monitor them in the "Actions" tab of your github repository. If you're
 following along, go have a look... they should be running right now!
 
