@@ -28,7 +28,7 @@ Select github_repository_url:
 2 - provide later
 Choose from 1, 2 [1]:
 module_name [pytorch]: pytorch-related
-display_name [repoBar]: pytorch-related 
+display_name [repoBar]: tensorflow 
 short_description [A simple package to use with library]:
 # you can select from various package template examples
 include_sample_data_package [y]:
