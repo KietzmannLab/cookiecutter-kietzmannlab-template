@@ -222,7 +222,7 @@ issue] along with a detailed description.
 
 ## License
 
-Distributed under the terms of the [BSD-3] license, `cookiecutter-kietzmannlab-package`
+Distributed under the terms of the [apache v2.0] license, `cookiecutter-kietzmannlab-package`
 is free and open source software.
 
 [Kietzmannlab]: https://github.com/KietzmannLab/
