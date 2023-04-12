@@ -57,7 +57,7 @@ pytorch-datasets/
 │      └── test_and_deploy.yml
 ├── LICENSE
 ├── MANIFEST.in
-├── pytorch_datasets
+├── src/pytorch_datasets
 │   ├── __init__.py
 │   ├── datasets.yaml
 │   └── _tests
