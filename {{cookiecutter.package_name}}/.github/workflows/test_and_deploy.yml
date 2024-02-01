@@ -1,3 +1,4 @@
+{% raw %}
 name: Manual Tests Trigger
 
 on:
@@ -66,3 +67,4 @@ jobs:
         run: |
           python -m build .
           twine upload dist/*
+{% endraw %}          
