@@ -3,7 +3,6 @@
 [![License {{cookiecutter.license}}](https://img.shields.io/pypi/l/{{cookiecutter.package_name}}.svg?color=green)](https://github.com/{{cookiecutter.github_username_or_organization}}/{{cookiecutter.package_name}}/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/{{cookiecutter.package_name}}.svg?color=green)](https://pypi.org/project/{{cookiecutter.package_name}})
 [![Python Version](https://img.shields.io/pypi/pyversions/{{cookiecutter.package_name}}.svg?color=green)](https://python.org)
-[![tests](https://github.com/{{cookiecutter.github_username_or_organization}}/{{cookiecutter.package_name}}/workflows/tests/badge.svg)](https://github.com/{{cookiecutter.github_username_or_organization}}/{{cookiecutter.package_name}}/actions)
 [![codecov](https://codecov.io/gh/{{cookiecutter.github_username_or_organization}}/{{cookiecutter.package_name}}/branch/main/graph/badge.svg)](https://codecov.io/gh/{{cookiecutter.github_username_or_organization}}/{{cookiecutter.package_name}})
 
 
